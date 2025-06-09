@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roblox Lua Executor", "Roblox Lua Executor\Roblox Lua Executor.csproj", "{BCC0571C-B988-475A-A299-F74DF3756634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC0571C-B988-475A-A299-F74DF3756634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC0571C-B988-475A-A299-F74DF3756634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC0571C-B988-475A-A299-F74DF3756634}.Debug|x64.ActiveCfg = Debug|x64
+		{BCC0571C-B988-475A-A299-F74DF3756634}.Debug|x64.Build.0 = Debug|x64
+		{BCC0571C-B988-475A-A299-F74DF3756634}.Debug|x86.ActiveCfg = Debug|x86
+		{BCC0571C-B988-475A-A299-F74DF3756634}.Debug|x86.Build.0 = Debug|x86
+		{BCC0571C-B988-475A-A299-F74DF3756634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC0571C-B988-475A-A299-F74DF3756634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC0571C-B988-475A-A299-F74DF3756634}.Release|x64.ActiveCfg = Release|x64
+		{BCC0571C-B988-475A-A299-F74DF3756634}.Release|x64.Build.0 = Release|x64
+		{BCC0571C-B988-475A-A299-F74DF3756634}.Release|x86.ActiveCfg = Release|x86
+		{BCC0571C-B988-475A-A299-F74DF3756634}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E52DFF4-8616-4D58-989A-F47FDFBB3603}
+	EndGlobalSection
+EndGlobal
