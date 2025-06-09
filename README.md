@@ -43,25 +43,6 @@ A **super clean and modern Roblox Lua script executor** built with **C# and DLL 
 
 ---
 
-## 🧪 Test Script
-
-```lua
-print("UNC Test: Hello from your executor!")
-
-local p = game:GetService("Players").LocalPlayer
-print("Hi, " .. p.Name)
-
-local part = Instance.new("Part")
-part.Name = "UNC_Test_Block"
-part.Size = Vector3.new(5,1,5)
-part.Position = Vector3.new(0,10,0)
-part.Anchored = true
-part.BrickColor = BrickColor.new("Bright blue")
-part.Parent = workspace
-```
-
----
-
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
