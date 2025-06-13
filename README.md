@@ -1,4 +1,4 @@
-# ⚡ Lunar (Roblox Lua Executor)
+# 🌙 Lunar (Roblox Lua Executor)
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/ItsMeD4N/Roblox-Lua-Executor?style=for-the-badge"/>
