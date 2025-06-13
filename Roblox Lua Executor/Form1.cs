@@ -21,6 +21,7 @@ namespace Roblox_Lua_Executor
         public Form1()
         {
             InitializeComponent();
+            this.Icon = Properties.Resources.appicon;
         }
         private async void Attachwithapi()
         {
