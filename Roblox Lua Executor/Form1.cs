@@ -494,5 +494,10 @@ namespace Roblox_Lua_Executor
             Settings Mainfr = new Settings();
             Mainfr.Show();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
